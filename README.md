@@ -12,12 +12,9 @@
 	</p>
 	</details>
   <a href="https://github.com/TaburaA/starfield5">Project Code<br></a>
- <details>
-    <summary>Starfield Reflection</summary>
- <p>
+<BLOCKQUOTE>
 For this lab we were to focus on inheritance and interfaces. My lab used triginometry, PImage and randomization to create the image of turkeys flying in random increments in a circle, along with a giant corn and pilgrim hats. Since Thanksgiving was around the corner, this lab was Thanksgiving themed. The turkeys had their own code, and by using inheritence and interfaces, the other two images were able to follow the same code without any additional work. I learnt a lot about inheritence and interfaces, much more than last year.
-</p>
-    </details>
+	</BLOCKQUOTE>
 
 </p>
  </details>
