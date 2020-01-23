@@ -5,8 +5,8 @@
  <summary>Soccer Power Index Data Visualization</summary>
  <h3>Links:</h3>
     <p>
-  <img src="SPI1.png">
-<img src="SPI2.png">
+  <img src="SPI1.PNG">
+<img src="SPI2.PNG">
   <a href="https://taburaa.github.io/starfield5/">Thanksgiving Starfield<br></a>
   
   <a href="https://github.com/TaburaA/starfield5">Repo URL<br></a>
