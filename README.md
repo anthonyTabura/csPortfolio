@@ -5,8 +5,8 @@
  <summary>Soccer Power Index Data Visualization</summary>
  <h3>Links:</h3>
 	<UL>
-	<details>
-	<LI>  <summary>Visualization Images</summary>
+	<LI> <details>
+	 <summary>Visualization Images</summary>
 	    <p>
   <img src="SPI1.PNG">
 <img src="SPI2.PNG">
