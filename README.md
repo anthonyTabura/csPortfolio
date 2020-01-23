@@ -5,11 +5,12 @@
  <summary>Soccer Power Index Data Visualization</summary>
  <h3>Links:</h3>
     <p>
+	  <summary>Visualization Images</summary>
+	    <p>
   <img src="SPI1.PNG">
 <img src="SPI2.PNG">
-  <a href="https://taburaa.github.io/starfield5/">Thanksgiving Starfield<br></a>
-  
-  <a href="https://github.com/TaburaA/starfield5">Repo URL<br></a>
+	</p>
+  <a href="https://github.com/TaburaA/starfield5">Project Code<br></a>
  <details>
     <summary>Starfield Reflection</summary>
  <p>
