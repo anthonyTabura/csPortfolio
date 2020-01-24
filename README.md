@@ -128,16 +128,14 @@ if (key == '1') {
  <summary>TransitTree Project</summary>
  <h3>Links:</h3>
     <p>
+  <UL>
+  <LI><a href="https://anthonytabura.github.io/TransitTree/">Transit Tree Project<br></a>
   
-  <a href="https://anthonytabura.github.io/TransitTree/">Transit Tree Project<br></a>
-  
-  <a href="https://github.com/anthonyTabura/TransitTree/blob/master/Dice.pde">Project Code<br></a>
- <details>
-    <summary>Transit Tree Details</summary>
- <p>
-Using a tree, people answer binary questions to find out what transportation they should use to get to their destination. The GH webpage won't work because the RIGHT key won't function, but it's fully functioning in processing.
-</p>
-    </details>
+ <LI> <a href="https://github.com/anthonyTabura/TransitTree/blob/master/Dice.pde">Project Code<br></a>
+	</UL>
+<BLOCKQUOTE>
+For this lab we were to focus on inheritance and interfaces. My lab used triginometry, PImage and randomization to create the image of turkeys flying in random increments in a circle, along with a giant corn and pilgrim hats. Since Thanksgiving was around the corner, this lab was Thanksgiving themed. The turkeys had their own code, and by using inheritence and interfaces, the other two images were able to follow the same code without any additional work. I learnt a lot about inheritence and interfaces, much more than last year.
+	</BLOCKQUOTE>
 
 </p>
  </details>
