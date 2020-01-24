@@ -125,13 +125,13 @@ if (key == '1') {
  </p>
  </details>
 <details>
- <summary>TransitTree Final Project(Not 100% Working-Look in "details"!)</summary>
+ <summary>TransitTree Project</summary>
  <h3>Links:</h3>
     <p>
   
-  <a href="https://taburaa.github.io/TransitTree/">Transit Tree<br></a>
+  <a href="https://anthonytabura.github.io/TransitTree/">Transit Tree Project<br></a>
   
-  <a href="https://github.com/TaburaA/TransitTree">Repo URL<br></a>
+  <a href="https://github.com/anthonyTabura/TransitTree/blob/master/Dice.pde">Project Code<br></a>
  <details>
     <summary>Transit Tree Details</summary>
  <p>
